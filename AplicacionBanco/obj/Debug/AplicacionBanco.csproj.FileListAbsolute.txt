@@ -1,0 +1,10 @@
+C:\Users\mdcac\source\repos\AplicacionBanco\AplicacionBanco\bin\Debug\AplicacionBanco.exe.config
+C:\Users\mdcac\source\repos\AplicacionBanco\AplicacionBanco\bin\Debug\AplicacionBanco.exe
+C:\Users\mdcac\source\repos\AplicacionBanco\AplicacionBanco\bin\Debug\AplicacionBanco.pdb
+C:\Users\mdcac\source\repos\AplicacionBanco\AplicacionBanco\obj\Debug\AplicacionBanco.csprojAssemblyReference.cache
+C:\Users\mdcac\source\repos\AplicacionBanco\AplicacionBanco\obj\Debug\AplicacionBanco.Properties.Resources.resources
+C:\Users\mdcac\source\repos\AplicacionBanco\AplicacionBanco\obj\Debug\AplicacionBanco.csproj.GenerateResource.cache
+C:\Users\mdcac\source\repos\AplicacionBanco\AplicacionBanco\obj\Debug\AplicacionBanco.csproj.CoreCompileInputs.cache
+C:\Users\mdcac\source\repos\AplicacionBanco\AplicacionBanco\obj\Debug\AplicacionBanco.exe
+C:\Users\mdcac\source\repos\AplicacionBanco\AplicacionBanco\obj\Debug\AplicacionBanco.pdb
+C:\Users\mdcac\source\repos\AplicacionBanco\AplicacionBanco\obj\Debug\AplicacionBanco.Form1.resources
