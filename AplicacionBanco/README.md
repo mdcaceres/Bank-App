@@ -1,0 +1,2 @@
+﻿# Bank app
+With this application you can add clients to our BANK.  After complete all form data press add button to add the client in an array. Also you can view the amount of clients with a safe bank account or check bank acount. Also you can know the percentage of Womans that are clients of our bank just clicking the "Porc. Femenino" button. 
